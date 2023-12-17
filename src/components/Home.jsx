@@ -47,7 +47,15 @@ const Home = () => {
             maxW={'container.md'}
             mx={'auto'}
           >
-            {/* Your text content */}
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, rerum
+            asperiores iure corrupti modi assumenda perferendis libero accusamus
+            nam unde quo a fuga iste animi expedita minus debitis aspernatur?
+            Veniam id tempora consequatur repudiandae quod ullam nihil delectus
+            autem commodi eius, blanditiis placeat officiis ut suscipit dolorem
+            doloremque vel illo quidem perferendis sequi debitis sint minima
+            impedit! Aliquid nobis facilis numquam eos tempore corrupti beatae
+            aliquam et laborum ipsum reiciendis ex, cumque veniam praesentium
+            fugiat officia quasi unde cupiditate quisquam.
           </Text>
         </Stack>
       </Container>
